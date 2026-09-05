@@ -6,3 +6,20 @@
 - <em> — italic + semantic emphasis (stressed text)
 - <br> — line break (no closing tag)
 - <hr> — horizontal rule/divider (no closing tag)
+
+# Lists
+`for unordered lists`
+```
+<ul>              
+  <li>Item one</li>
+  <li>Item two</li>
+</ul>
+```
+
+` for ordered lists`
+```
+<ol>              
+   <li>First</li>
+   <li>Second</li>
+</ol>
+```
