@@ -24,3 +24,16 @@
    <li>Second</li>
 </ol>
 ```
+
+# Links
+
+`for external links`
+```
+<a href="https://github.com/lochan-DEV">click here to visit my github platform</a>
+
+```
+`for internal links or locall file`
+```
+<a href="page2.html">Next page</a>      
+```
+ 
