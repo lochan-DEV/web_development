@@ -22,3 +22,31 @@ button — a plain button that does nothing on its own (used with JavaScript lat
 image — a submit button that's an image instead of text
 ```
 
+# Example for simple form creation 
+```
+
+<form>                             --creation of form--
+
+  <label for="name">Name</label>  [to take name as input from user ]
+  <input type="text" id="name">   
+
+  <label for="email">Email</label>  [to take email as input from user]
+  <input type="email" id="email">
+
+  <input type="checkbox" id="agree">  []
+  <label for="agree">I agree</label>
+
+  <input type="radio" name="plan" id="free"> <label for="free">Free</label>
+  <input type="radio" name="plan" id="pro"> <label for="pro">Pro</label>
+
+  <textarea placeholder="Write a message..."></textarea>
+
+  <select>
+    <option>Option A</option>
+    <option>Option B</option>
+  </select>
+
+  <button type="submit">Submit</button>   
+
+</form>
+```
