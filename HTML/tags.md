@@ -36,4 +36,15 @@
 ```
 <a href="page2.html">Next page</a>      
 ```
- 
+
+# images
+
+`for external images`
+
+```
+<img src="https://image.com/cat.png" alt="cat">
+```
+
+`for internal opr local images`
+```
+<img src="cat.png" alt="cat">
