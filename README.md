@@ -7,7 +7,7 @@ My web development learning journey — [HTML, CSS]
 ### HTML
 - [x] Basic structure 
 - [x] Text tags & lists 
-- [ ] Forms & tables
+- [x] Forms
 - [ ] Semantic tags, div/span, metadata
 
 ## Structure
