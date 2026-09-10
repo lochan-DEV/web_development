@@ -12,3 +12,11 @@
 <div> — a block-level container with no semantic meaning at all; used purely for grouping content for layout/styling when no semantic tag fits.
 <span> — the same as <div>, but inline — used to wrap and style a small piece of text within a line, without breaking to a new line.
 ```
+
+
+# meta useful commands
+```
+  <meta charset="UTF-8">    -- we can use any language or symbols in the input section
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">    --it adjusts the web as per the users output device
+```
