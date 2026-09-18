@@ -11,5 +11,8 @@ My web development learning journey — [HTML, CSS]
 - [x] Table
 - [x] Semantic tags, div/span
 
+### CSS
+- [x] Basic
+
 ## Structure
 - `HTML/` — notes on HTML concepts as I learn them
