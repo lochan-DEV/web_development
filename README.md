@@ -18,3 +18,4 @@ My web development learning journey — [HTML, CSS]
 
 ## Structure
 - `HTML/` — notes on HTML concepts as I learn them
+- `CSS/` - notes on CSS as i learn and practice them
