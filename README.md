@@ -15,6 +15,7 @@ My web development learning journey — [HTML, CSS]
 - [x] Basic
 - [x] Box Model
 - [x] Selectors
+- [x] display
 
 ## Structure
 - `HTML/` — notes on HTML concepts as I learn and practice  them
