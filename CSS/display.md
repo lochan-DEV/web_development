@@ -33,3 +33,22 @@ into
 
 `hello world im learning css`
 ```
+
+# 3. `display: inline-block`
+
+inline-block combines important properties of inline and block.
+
+It behaves: Like inline → it can sit beside other elements.
+            Like block → you can set width and height.
+```            
+Example
+<div class="box">One</div>
+<div class="box">Two</div>
+<div class="box">Three</div>
+.box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+```
+
