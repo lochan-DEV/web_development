@@ -52,3 +52,22 @@ Example
 }
 ```
 
+# 4. display: none
+
+display: none makes an element completely disappear from the page layout.
+it does not delete the element it just hides the element .which can be brought back using commnds like javascript...
+```
+Example
+<p>Hello</p>
+<p class="hidden">World</p>
+.hidden {
+    display: none;
+}
+Output
+Hello
+
+World is not displayed.
+
+
+```
+More importantly, it does not occupy any space.
