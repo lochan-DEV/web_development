@@ -69,5 +69,12 @@ Hello
 World is not displayed.
 
 
-```
+``` 
+
 More importantly, it does not occupy any space.
+
+# summary 
+- BLOCK → new line + size 
+- INLINE → same line + content size 
+- INLINE-BLOCK → same line + custom size 
+- NONE → hidden + no space
